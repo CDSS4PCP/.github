@@ -5,26 +5,24 @@ Our investigation will develop publicly accessible, reusable, upper-level clinic
 
 
 
-
-
 ## Projects
 ### CDSS Modules for OpenMRS and OpenEMR
 #### OpenMRS
 - [OpenMRS](https://github.com/xjing16/EMR_EHR4CDSSPCP/tree/main/OpenMRS): The code for the OpenMRS adapter module, frontend module and documentation.
-- [Documentation for OpenMRS modules ](https://github.com/xjing16/EMR_EHR4CDSSPCP/tree/main/OpenMRS/docs/README.md): The documentation for the OpenMRS adapter module and frontend module.
+- [Documentation for OpenMRS modules](https://github.com/xjing16/EMR_EHR4CDSSPCP/tree/main/OpenMRS/docs/README.md): The documentation for the OpenMRS adapter module and frontend module.
 
 #### OpenEMR
 - [OpenEMR](https://github.com/xjing16/EMR_EHR4CDSSPCP/tree/main/OpenEMR): The code for the OpenEMR adapter module.
 
 ### Common Module
-- [Common Module](https://github.com/xjing16/EMR_EHR4CDSSPCP/tree/main/Common): The common component for running CDS on the frontend.
-- [CDSS Rule Standards](#): A document outlining the format and expectations for wring new CQL rules.
+- [cdss-common](https://github.com/CDSS4PCP/cdss-common): The common component for running CDS on the frontend.
+- [CDSS Rule Standards](https://github.com/CDSS4PCP/cdss-common/blob/d79e59d44dbc4c19b25d0281de044b743cdbf0c1/CQL%20Rule%20Standard%20Specification.md): A document outlining the format and expectations for wring new CQL rules.
 
 #### Other
-- [cdss-testing-harness](https://github.com/DrSmCraft/cdss-testing-harness.git): The CQL rule testing framework.
+- [cdss-testing-harness](https://github.com/CDSS4PCP/cdss-testing-harness.git): The CQL rule testing framework.
 - [CDSS_Rules_Repository](https://github.com/CDSS4PCP/CDSS_Rules_Repository): The collection of CDSS rules taht we have built.
-- [rule-modification-service](https://github.com/DrSmCraft/rule-modification-service): A docker servcie taht allows to inject values into CQL to allow for modifying them.
-- [browserfy-cql-exec-vsac](https://github.com/DrSmCraft/browserfy-cql-exec-vsac): A client-based valueset resolver forked form [cql-exec-vsac](https://github.com/cqframework/cql-exec-vsac).
+- [rule-modification-service](https://github.com/CDSS4PCP/rule-modification-service): A docker servcie taht allows to inject values into CQL to allow for modifying them.
+- [browserfy-cql-exec-vsac](https://github.com/CDSS4PCP/browserfy-cql-exec-vsac): A client-based valueset resolver forked form [cql-exec-vsac](https://github.com/cqframework/cql-exec-vsac).
 - Contributed to [cql-execution](https://github.com/cqframework/cql-execution/pull/332) by implementing the `ExpandValueset` operator.
 
 ---
