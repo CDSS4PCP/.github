@@ -28,10 +28,10 @@ Our investigation team develops publicly accessible, reusable, and machine-inter
 ---
 ### Automatic Identification of CDSS Ontology Entity Candidates
 - [NLP_KPIdentify](https://github.com/CDSS4PCP/NLP_KPIdentify): A NLP pipeline for Keyphrase Identification with a Limited Labeled Dataset Using Deep Active Learning and Domain Adaptation.
-- AL measurements, strategies, and results [(Full paper)](https://github.com/CDSS4PCP/NLP_KPIdentify/blob/active_learning_files/ActiveLearningStrategiesResults/Active%20Learning%20Strategies_V8_20250808.pdf)
+- AL measurements, strategies, and results [(Full paper)](https://medrxiv.org/cgi/content/short/2025.04.15.25325868v2)
 - Hyperparameters tuning 
-- Active learning pipelines (https://github.com/CDSS4PCP/KEOLP)
-- System to incorporate HDE feedback (Front + back) and initiate AL platform (https://cdss4pcp.info/)
+- [Active learning pipelines] (https://github.com/CDSS4PCP/KEOLP)
+- System to incorporate HDE feedback (Front + back) and initiate [AL platform] (https://cdss4pcp.info/)
 - AL pipeline results
 - AL pipelines performances tracking over time
 - KEOLP writing (AL platform + pipeline)
