@@ -26,7 +26,7 @@ Our investigation team develops publicly accessible, reusable, and machine-inter
 - Contributed to [cql-execution](https://github.com/cqframework/cql-execution/pull/332) by implementing the `ExpandValueset` operator.
 
 ---
-### Automatic Identication of CDSS Ontology Entity Candidates
+### Automatic Identification of CDSS Ontology Entity Candidates
 - [NLP_KPIdentify](https://github.com/CDSS4PCP/NLP_KPIdentify): A NLP pipeline for Keyphrase Identification with a Limited Labeled Dataset Using Deep Active Learning and Domain Adaptation.
 - AL measurements, strategies, and results [(Full paper)](https://github.com/CDSS4PCP/NLP_KPIdentify/blob/active_learning_files/ActiveLearningStrategiesResults/Active%20Learning%20Strategies_V8_20250808.pdf)
 - Hyperparameters tuning 
@@ -34,7 +34,7 @@ Our investigation team develops publicly accessible, reusable, and machine-inter
 - System to incorporate HDE feedback (Front + back) and initiate AL platform (https://cdss4pcp.info/)
 - AL pipeline results
 - AL pipelines performances tracking over time
-- KEOLP Writings (AL platform + pipeline)
+- KEOLP writing (AL platform + pipeline)
 
 ---
 See more [here](https://cdss4pcp.com/#/)
